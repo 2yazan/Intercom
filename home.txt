@@ -1,0 +1,5 @@
+[16:55:25]. The door opened by password: 112233
+[16:55:38]. The doorbell rings: 1
+[16:55:40]. Door open: 1
+[16:55:47]. The doorbell rings: 6
+[16:55:48]. The call was dropped: 6
